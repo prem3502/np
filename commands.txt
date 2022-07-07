@@ -1,0 +1,12 @@
+sudo su
+cd ns tab
+cd ns tab
+cd scratch
+gedit prog.cc
+cd ..
+./waf
+./waf --run scratch/prgm
+cd ..
+net tab
+export QT_X11_NO_MITSHM=1
+./Net tab
